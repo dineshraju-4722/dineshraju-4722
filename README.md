@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Dinesh Kumar<br> and I'm a CSE student from Mohan Babu University.</h2>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F79B&center=true&vCenter=true&width=600&lines=Hi+👋!+My+name+is+Dinesh+Kumar;I'm+a+CSE+student+from+Mohan+Babu+University." alt="Typing SVG" />
+  </a>
+</h1>
 
 ###
 
@@ -9,7 +13,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -23,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/dinesh._kumar97?igsh=bWdjMXNsbXM5YWM=" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
